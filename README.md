@@ -1,6 +1,6 @@
 # cryptone
 
-A new Flutter project.
+An application that helps you note out your crypto portfolio
 
 ## Getting Started
 
