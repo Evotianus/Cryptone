@@ -1,4 +1,4 @@
-# cryptone
+# Cryptone
 
 An application that helps you note out your crypto portfolio
 
